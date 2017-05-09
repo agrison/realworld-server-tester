@@ -5,11 +5,9 @@ by complying with the API spec.
 
 ## Usage
 
-    java -jar realworld-server-tester URL
-
-exemple:
-
-    java -jar realworld-server-tester http://localhost:8080
+    git clone https://github.com/agrison/realworld-server-tester.git
+    cd realworld-server-tester
+    java -jar target/realworld-server-tester-0.1.0-SNAPSHOT-standalone.jar http://localhost:8080
 
 ## Demo
 
